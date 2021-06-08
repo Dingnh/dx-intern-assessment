@@ -32,4 +32,4 @@ DMBS wise I'd go for relational databases because the flexibility of a NoSQL dat
 
 ## Section 3:
 
-For this section, refer to:
+For this section, refer to "Assessments/2021/upload-extract-display/index.html", just open the index.html file in the browser and you should be able to upload zip files and extract the images within! Thanks for your precious time, if any issue please raise one :D
