@@ -1,34 +1,65 @@
 body {
-    padding: 15px;
-    background: #222222;
-    color: #ffffff;
+  padding: 15px;
+  background: #222222;
+  color: #ffffff;
 }
 
 .top-wrapper {
-    padding: 15px;
-    clear: both;
-    width: 100%;
-    height: 70px;
+  padding: 15px;
+  clear: both;
+  width: 100%;
+  height: 70px;
 }
 
 .top-wrapper img {
-    margin-right: 10px;
-    height: 70px;
-    float: left;
+  margin-right: 10px;
+  height: 70px;
+  float: left;
 }
 
 .top-wrapper h1 {
-    float: left;
+  float: left;
 }
 
 .instruction-wrapper {
-    padding: 10px;
+  padding: 10px;
 }
 
 b.yellow {
-    color: yellow;
+  color: yellow;
 }
 
 .display-wrapper {
-    padding: 10px;
+  padding: 10px;
+}
+
+.drag-and-drop-container {
+  height: 200px;
+  border: 5px dashed #fff;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  transition: 0.5s;
+}
+
+.drag-and-drop-container p {
+  font-size: large;
+}
+
+.choose-to-upload {
+  cursor: pointer;
+}
+
+.choose-to-upload:hover {
+  color: yellow;
+}
+
+#file-list {
+  display: inline-block;
+}
+
+.filename {
+  max-width: 500px;
 }
