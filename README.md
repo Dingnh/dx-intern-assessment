@@ -32,13 +32,17 @@ DMBS wise I'd go for relational databases because the flexibility of a NoSQL dat
 
 ## Section 3:
 
-For this section, refer to "Assessments/2021/upload-extract-display/index.html", just open the index.html file in the browser and you should be able to upload zip files and extract the images within! 
+For this section, refer to the respective assessment folders and its .html files.
 
-The application uses zip.js to read the files within and displays the img in base64 data format. For more information, visit: 
+The Upload/Extract application uses zip.js to read the files within and displays the img in base64 data format. For more information, visit: 
 
 https://gildas-lormeau.github.io/zip.js/core-api.html
 
-Video preview
+Video preview 1 (2020)
+
+https://drive.google.com/file/d/1Dnwj0vdkRRjEle7AwdW6s0Srw41epsxT/view?usp=sharing
+
+Video preview 2 (2021)
 
 https://drive.google.com/file/d/1CqlE_W35sxooA6x7agG68n_IH8dtGsjc/view?usp=sharing
 
