@@ -69,7 +69,7 @@
     });
 
     function submit() {
-        if (convertValue.value) {
+        if (convertValue.value > 0) {
             pound.innerHTML = " Pound: " + (convertValue.value * 2.20462).toFixed(4) + "lbs"
             miligram.innerHTML = "Miligram: " + convertValue.value + " * 10^6mg"
         }
