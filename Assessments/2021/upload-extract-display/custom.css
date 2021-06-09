@@ -57,9 +57,9 @@ b.yellow {
 }
 
 #file-list {
-  display: inline-block;
+  display: flex;
 }
 
 .filename {
-  max-width: 500px;
+  max-width: 250px;
 }
